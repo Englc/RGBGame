@@ -5,3 +5,11 @@ http://vanilla-js.com/
 
 http://youmightnotneedjquery.com/
 
+
+![preview](https://github.com/Englc/RGBGame/blob/master/preview.png)
+
+
+![preview](https://github.com/Englc/RGBGame/blob/master/preview-easy.png)
+
+
+![preview](https://github.com/Englc/RGBGame/blob/master/preview-won-fullsize.png)
