@@ -1,5 +1,5 @@
 # RGBGame
-A small webproject to get comfortable with Vanilla JS and to store some notes about it
+A small webproject to get comfortable with Vanilla JS DOM manipulation and to store some notes about it
 
 http://vanilla-js.com/
 
