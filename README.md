@@ -1,4 +1,5 @@
 # RGBGame
+# just call http://htmlpreview.github.io/?https://github.com/Englc/RGBGame/blob/master/rgb.html to test it
 A small webproject to get comfortable with Vanilla JS DOM manipulation and to store some notes about it
 
 http://vanilla-js.com/
